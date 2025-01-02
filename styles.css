@@ -1,0 +1,30 @@
+body{
+    font-family: serif;
+    background-color: beige;
+}
+
+p{
+    font-size: 18px;;
+}
+
+li{
+    font-size: 22px;
+}
+
+ol > li{
+    font-size: 18px;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 32px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
